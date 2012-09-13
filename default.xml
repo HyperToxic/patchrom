@@ -15,6 +15,7 @@
   <project path="android" name="MiCode/patchrom_android" />
   <project path="honor" name="MiCode/patchrom_honor" />
   <project path="p1" name="MiCode/patchrom_p1" />
+  <project path="u970" name="MiCode/patchrom_u970" />
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
 </manifest>
